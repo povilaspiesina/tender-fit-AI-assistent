@@ -157,7 +157,7 @@ Vertinimas aktualu reiškia potencialiai verta žmogaus peržiūros, o ne įrody
 Jei dokumentas reikalauja pilnos dalies, vieno produkto atitikimas neužtenka. Jei can_source_unlisted_items=false, nepriskirk klientui kataloge nesančių produktų.
 Pirkimų istorija yra papildomas signalas apie ankstesnę veiklą, bet neįrodo dabartinės pasiūlos. Jei kataloge prekės nėra, bet istorijoje ji buvo, o can_source_unlisted_items=null, naudok reikia_perziureti ir įrašyk, ką reikia patikrinti.
 Nuoma nėra pardavimas. Jei reikšmingos informacijos trūksta, naudok reikia_perziureti.
-Nurodyk kiekvienos dalies sutampančius ir nesutampančius objektus, o matching_lots naudok trumpus numerius.
+Nurodyk kiekvienos dalies sutampančius ir nesutampančius objektus. Į matching_lots įtrauk tik tas dalis, kurių decision yra aktualu; dalių su reikia_perziureti neįtrauk.
 Bendra išvada aktualu, jei bent viena pilna dalis potencialiai padengiama; neaktualu, jei nė viena nepadengiama ir tai aišku; kitu atveju reikia_perziureti.
 Grąžink tik schemą atitinkantį JSON.'''
 
@@ -187,7 +187,11 @@ def assess_procurement(procurement: Procurement, client_profile: dict) -> Assess
         response_format={"type": "text", "mime_type": "application/json",
                          "schema": Assessment.model_json_schema()},
     )
-    return Assessment.model_validate_json(interaction.output_text)
+    assessment = Assessment.model_validate_json(interaction.output_text)
+    # Šis laukas turi atitikti kiekvienos dalies sprendimą, net jei modelis jį užpildė kitaip.
+    assessment.matching_lots = [lot.lot_id for lot in assessment.lot_assessments
+                                if lot.decision == "aktualu"]
+    return assessment
 
 def show_result(procurement: Procurement, assessment: Assessment, source_text: str):
     rows = []
