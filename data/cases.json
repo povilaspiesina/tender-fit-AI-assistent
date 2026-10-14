@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bio_reagentai_atitinka",
+    "x": {
+      "source_file": "synthetic_molecular_procurement.txt",
+      "client_profile": {
+        "name": "DEMO Molekulinės biologijos reagentų tiekėjas",
+        "offerings": ["PGR mišinys (2x master mix)", "DNR išskyrimo rinkinys", "Vanduo be nukleazių"],
+        "service_modes": ["pardavimas", "pristatymas"],
+        "regions": ["Lietuva"],
+        "can_source_unlisted_items": false,
+        "procurement_history": [{"year": 2025, "object": "PGR mišiniai ir DNR išskyrimo rinkiniai", "outcome": "tiekta"}],
+        "notes": "Sintetinis profilis. Techninis atitikimas dar netikrintas."
+      }
+    },
+    "y": {
+      "lots_count": 1,
+      "items_count": 3,
+      "decision": "aktualu",
+      "matching_lots": ["1"],
+      "reason": "Visi trys vienos dalies reagentai yra kataloge; vertas techninės peržiūros."
+    }
+  },
+  {
+    "id": "lsmu_istorija_bet_nezinoma_pasiula",
+    "x": {
+      "source_file": "lsmu_spec_excerpt.txt",
+      "client_profile": {
+        "name": "DEMO Molekulinės biologijos reagentų tiekėjas",
+        "offerings": ["Trietanolaminas 99 % (TEA)", "PGR mišinys (2x master mix)", "DNR išskyrimo rinkinys"],
+        "service_modes": ["pardavimas", "pristatymas"],
+        "regions": ["Lietuva"],
+        "can_source_unlisted_items": null,
+        "procurement_history": [{"year": 2024, "object": "Baltas farmacinis vazelinas", "outcome": "tiekta ankstesniame pirkime"}],
+        "notes": "Vazelino nėra dabartiniame kataloge. Nežinoma, ar klientas gali jį vėl tiekti."
+      }
+    },
+    "y": {
+      "lots_count": 4,
+      "items_count": 11,
+      "decision": "reikia_perziureti",
+      "matching_lots": [],
+      "reason": "Istorija rodo galimą ryšį su I dalimi, bet dabartinis katalogas nepatvirtina visos dalies pasiūlos."
+    }
+  },
+  {
+    "id": "silute_neaktualu",
+    "x": {
+      "source_file": "notice_10041864_excerpt.txt",
+      "client_profile": {
+        "name": "DEMO Molekulinės biologijos reagentų tiekėjas",
+        "offerings": ["PGR mišinys (2x master mix)", "DNR išskyrimo rinkinys", "Vanduo be nukleazių"],
+        "service_modes": ["pardavimas", "pristatymas"],
+        "regions": ["Lietuva"],
+        "can_source_unlisted_items": false,
+        "procurement_history": [{"year": 2025, "object": "PGR mišiniai ir DNR išskyrimo rinkiniai", "outcome": "tiekta"}],
+        "notes": "Nenuomoja stogo ar terasos konstrukcijų ir jų nemontuoja."
+      }
+    },
+    "y": {
+      "lots_count": 1,
+      "items_count": 1,
+      "decision": "neaktualu",
+      "matching_lots": [],
+      "reason": "Prašoma stogo ir terasos nuomos bei stogo montavimo, o klientas tiekia reagentus."
+    }
+  }
+]

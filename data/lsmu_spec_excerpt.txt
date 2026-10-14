@@ -1,0 +1,37 @@
+ŠALTINIS: LSMU Pirkimo sąlygos SAK, 2.2 punktas ir 1 priedas Techninė specifikacija.
+2.1. Pirkimo objektas – cheminės medžiagos gamybai. Pagrindinis BVPŽ kodas 24900000-3. Pirkimo objekto aprašymas pateiktas konkurso sąlygų 1 priede „Techninė specifikacija“ (toliau - Techninė specifikacija arba Techninė užduotis).
+2.2. Pirkimo objektas yra skaidomas į 4 pirkimo objekto dalis. Tiekėjas gali teikti pasiūlymą vienai (pilnai), kelioms (pilnoms) arba visoms (pilnoms) pirkimo objekto dalims. Konkurso dalyvių skaičius neribojamas. Bus sudaroma viena sutartis dėl pirkimo dalių, dėl kurių laimėtoju nustatytas tas pats tiekėjas. Pirkimo objektų dalių pavadinimai:
+2.2.1. I pirkimo objekto dalis: Minkštikliai ir emulsijų komponentai (toliau – 1 pirkimo objekto dalis).
+2.2.2. II pirkimo objekto dalis: Riebalinės ir funkcinės pagalbinės medžiagos (toliau – 2 pirkimo objekto dalis).
+2.2.3. III pirkimo objekto dalis: Struktūrą formuojančios medžiagos (toliau – 3 pirkimo objekto dalis).
+2.2.4. IV pirkimo objekto dalys: Konservantai ir stabilizatoriai (toliau – 4 pirkimo objekto dalis).
+1 PRIEDAS, PIRKIMO DALIS 1, LENTELĖ 1
+Įrašas 1: Trietanolaminas 99 % (TEA)  INCI pavadinimas: Triethanolamine; Reikalavimai: Trietanolamino kiekis - ne mažiau kaip 99,0 %. Vandens kiekis - ne daugiau kaip 0,2 %. Monoetanolamino kiekis - ne daugiau kaip 0,10 %, dietanolamino kiekis - ne daugiau kaip 0,5 %. Išvaizda - bespalvis arba šviesiai gelsvas skaidrus skystis aukštesnėje kaip 21 °C temperatūroje; žemesnėje temperatūroje medžiaga gali sukietėti. Tirpumas: tirpus vandenyje.
+Įrašas 2: Baltas farmacinis vazelinas  INCI pavadinimas: Petrolatum; Reikalavimai: Produkto tipas: baltas farmacinis vazelinas; INCI pavadinimas: Petrolatum; Sudėtis: 100 % vazelinas; Spalva: balta; Kvapas: bekvapis; Fizikinė būsena: kieta arba pusiau kieta medžiaga; Lydymosi temperatūra: 38–68 °C; Pliūpsnio temperatūra: daugiau kaip 220 °C; Tankis: 0,815–0,880 g/cm³; Tirpumas vandenyje: netirpus; Tirpumas organiniuose tirpikliuose: tirpus; Klampa: daugiau kaip 5 mm²/s (100 °C).
+1 PRIEDAS, PIRKIMO DALIS 2, LENTELĖ 2
+Įrašas 1: Skystasis parafinas INCI pavadinimas: Paraffinum Liquidum; Reikalavimai: Skaidrus, bespalvis ir bekvapis skystis. Kinematinė klampa 40 °C temperatūroje - 65,0-75,0 mm²/s. Dinaminė klampa 20 °C temperatūroje - 110-230 mPa·s.
+Įrašas 2: Glyceryl Stearate   INCI pavadinimas: Glyceryl Stearate; Reikalavimai: Balta arba beveik balta kieta medžiaga dribsnių, granulių arba miltelių pavidalo. Lydymosi temperatūra 58-63 °C. Rūgščių skaičius  ne daugiau kaip 2,0 mg KOH/g. Muilinimo skaičius  165-180 mg KOH/g. Glicerolio monostearato (monoesterio) kiekis 55-65 %. Laisvojo glicerolio kiekis - ne daugiau kaip 2,0 %.
+Įrašas 3: Glicerinas farmacinis  INCI pavadinimas: Glycerin; Reikalavimai: Glicerino kiekis – 99,5–101,0 %. Vandens kiekis – ne daugiau kaip 0,5 %. Dietilenglikolio kiekis – ne daugiau kaip 0,1 %.Išvaizda: skaidrus, bespalvis, klampus skystis; Kvapas: bekvapis.
+Įrašas 4: Vitamino E acetatas, Ph. Eur.  INCI pavadinimas: Tocopheryl Acetate; Reikalavimai: Išvaizda: gelsvai žalsvas, skaidrus, klampus skystis; Veikliosios medžiagos kiekis: ne mažiau kaip 98 %; Rūgštingumo skaičius: ne daugiau kaip 2 mg KOH/g; Sunkiųjų metalų kiekis: ne daugiau kaip 10 ppm.
+Įrašas 5: Vidutinės grandinės trigliceridų aliejus   INCI pavadinimas: Caprylic/Capric Triglyceride; Reikalavimai: Skaidrus, bespalvis arba šviesiai gelsvas aliejinis skystis. Kaprilo rūgšties (C8:0) kiekis – 50–65 %, kaprino rūgšties (C10:0) kiekis – 30–50 %. Rūgštingumo skaičius – ne daugiau kaip 0,1 mg KOH/g. Muilinimo skaičius – 325–340 mg KOH/g. Vandens kiekis – ne daugiau kaip 0,2 %.
+1 PRIEDAS, PIRKIMO DALIS 3, LENTELĖ 3
+Įrašas 1: Stearino rūgštis  INCI pavadinimas: Stearic Acid; Reikalavimai: Balta arba beveik balta kieta medžiaga dribsnių, granulių arba miltelių pavidalo. Stearino rūgšties (C18:0) kiekis – ne mažiau kaip 55,0 %. Titras – ne mažesnis kaip 56 °C. Jodo skaičius – ne daugiau kaip 1,0.
+Įrašas 2: Karbomeras (Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Ultrez 21 arba lygiavertis)  INCI pavadinimas: Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Reikalavimai: Puri balta miltelių pavidalo medžiaga, lengvai disperguojama vandenyje. Brookfield klampa 0,5 % dispersijoje, esant 25 °C temperatūrai, – 45 000–65 000 cP. Šviesos pralaidumas 0,5 % tirpale, matuojant esant 420 nm bangos ilgiui, – ne mažiau kaip 92 %. Drėkimo laikas – ne ilgesnis kaip 6 min. Drėgmės nuostolis – ne daugiau kaip 2 %. Žaliava turi būti tinkama kosmetikos geliams ir emulsijoms tirštinti bei stabilizuoti ir funkciškai lygiavertė „Carbopol® Ultrez 21“.
+1 PRIEDAS, PIRKIMO DALIS 4, LENTELĖ 4
+Įrašas 1: 2-fenoksietanolis, 99 %  INCI pavadinimas: Phenoxyethanol; Reikalavimai: Fenoksietanolio dalis: ne mažiau kaip 99,0 %; Tankis prie 20 °C: 1,100–1,105 g/ml; Lūžio rodiklis prie 20 °C: 1,500–1,537; Vandens dalis: ne daugiau kaip 0,2 %; Fenolio kiekis: ne daugiau kaip 10 ppm; Išvaizda: bespalvis, skaidrus skystis.
+Įrašas 2: Hidroksietilceliuliozė  INCI pavadinimas: Hydroxyethylcellulose; Reikalavimai: Hydroxyethylcellulose; CAS numeris: 9004-62-0; Išvaizda: balta, bekvapė miltelių pavidalo kieta medžiaga; pH (1 % tirpale): apie 7,8; Tirpumas: tirpus vandenyje;
+PASIŪLYMO FORMA, PIRKIMO DALIS 1, PRELIMINARŪS KIEKIAI
+Trietanolaminas 99 % (TEA)  INCI pavadinimas: Triethanolamine: 69 kg
+Baltas farmacinis vazelinas  INCI pavadinimas: Petrolatum: 700 kg
+PASIŪLYMO FORMA, PIRKIMO DALIS 2, PRELIMINARŪS KIEKIAI
+Skystasis parafinas INCI pavadinimas: Paraffinum Liquidum: 875 kg
+Glyceryl Stearate   INCI pavadinimas: Glyceryl Stearate: 125 kg
+Glicerinas farmacinis  INCI pavadinimas: Glycerin: 200 kg
+Vitamino E acetatas, Ph. Eur.  INCI pavadinimas: Tocopheryl Acetate: 12 kg
+Vidutinės grandinės trigliceridų aliejus   INCI pavadinimas: Caprylic/Capric Triglyceride: 80 kg
+PASIŪLYMO FORMA, PIRKIMO DALIS 3, PRELIMINARŪS KIEKIAI
+Stearino rūgštis  INCI pavadinimas: Stearic Acid: 125 kg
+Karbomeras (Acrylates/C10-30 Alkyl Acrylate Crosspolymer; Ultrez 21 arba lygiavertis)  INCI pavadinimas: Acrylates/C10-30 Alkyl Acrylate Crosspolymer: 40 kg
+PASIŪLYMO FORMA, PIRKIMO DALIS 4, PRELIMINARŪS KIEKIAI
+2-fenoksietanolis, 99 %  INCI pavadinimas: Phenoxyethanol: 30 kg
+Hidroksietilceliuliozė  INCI pavadinimas: Hydroxyethylcellulose: 2 kg

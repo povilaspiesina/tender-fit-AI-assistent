@@ -1,0 +1,14 @@
+flowchart TD
+    A[Vieno pirkimo PDF ir DOCX<br/>kliento katalogas bei istorija] --> B[Failų teksto ir lentelių nuskaitymas]
+    B --> C[Gemini API ištraukia dalis,<br/>objektus ir reikalavimus]
+    C --> D[Šaltinio žymų ir laukų patikra]
+    D --> E{Pakanka duomenų?}
+    E -- Ne --> H[Reikia peržiūrėti]
+    E -- Taip --> F[Visų dalies objektų palyginimas<br/>su kliento katalogu]
+    F --> G{Yra pilna tinkama dalis?}
+    G -- Taip --> I[Preliminariai aktualu]
+    G -- Ne --> J[Preliminariai neaktualu]
+    H --> K[Rezultatas su šaltinio įrodymais]
+    I --> K
+    J --> K
+    K --> L[Žmogaus patikra]

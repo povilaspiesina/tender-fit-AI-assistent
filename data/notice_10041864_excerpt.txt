@@ -1,0 +1,84 @@
+ŠALTINIS: Šilutės pirkimo skelbimo PDF, 1–2 puslapiai.
+PUSLAPIS 1
+Lietuva: Surenkamieji statiniai
+Sezoninės (mobilios) dirbtinai užšaldytos ledo čiuožyklos stogo ir terasos nuoma
+Skelbimas apie pirkimą arba koncesiją. Įprasta tvarka
+1 Pirkėjas
+1.1 Pirkėjas
+Oficialus pavadinimas: Šilutės rajono savivaldybės administracija
+Pirkėjo teisinė forma: Vietos valdžios institucija
+Perkančiosios organizacijos veiklos sritis: Bendrosios viešosios paslaugos
+2 Procedūra
+2.1 Procedūra
+Pavadinimas: Sezoninės (mobilios) dirbtinai užšaldytos ledo čiuožyklos stogo ir terasos nuoma
+Aprašymas: Perkančioji organizacija numato įsigyti sezoninės (mobilios) dirbtinai užšaldytos ledo čiuožyklos stogo ir 
+terasos nuomą. Prekių nuomos laikotarpis – nuo 2026 m. lapkričio 16 d. iki 2027 m. vasario 16 d. Stogo konstrukcija 
+turi būti pilnai sumontuota iki numatyto nuomos laikotarpio pradžios. Prekių pristatymo vieta – Lietuvininkų g. 2a, 
+LT­99185 Šilutė, Lietuva. Vidinis kiemas. Google žemėlapio koordinatės 55.340322, 21.460101. Finansavimo šaltinis 
+– Savivaldybės biudžeto lėšos.
+Procedūros identifikatorius: 9a1ab014­d67e­4326­9842­1c64f89e38f1
+Pirkimo būdas: Atviras
+Procedūra pagreitinta: ne
+2.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44211000 Surenkamieji statiniai
+2.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+2.1.4 Bendra informacija
+Teisinis pagrindas:
+Direktyva 2014/24/ES
+2.1.6 Pašalinimo pagrindai
+Pašalinimo pagrindų šaltiniai: Europos bendrasis viešųjų pirkimų dokumentas (EBVPD)
+5 Pirkimo dalis
+5.1 Pirkimo dalis: LOT­0001
+Pavadinimas: Sezoninės (mobilios) dirbtinai užšaldytos ledo čiuožyklos stogo ir terasos nuoma
+Aprašymas: Perkančioji organizacija numato įsigyti sezoninės (mobilios) dirbtinai užšaldytos ledo čiuožyklos stogo ir 
+terasos nuomą. Prekių nuomos laikotarpis – nuo 2026 m. lapkričio 16 d. iki 2027 m. vasario 16 d. Stogo konstrukcija 
+turi būti pilnai sumontuota iki numatyto nuomos laikotarpio pradžios. Prekių pristatymo vieta – Lietuvininkų g. 2a, 
+https://ted.europa.eu/TED Page 1/4
+PUSLAPIS 2
+LT­99185 Šilutė, Lietuva. Vidinis kiemas. Google žemėlapio koordinatės 55.340322, 21.460101. Finansavimo šaltinis 
+– Savivaldybės biudžeto lėšos.
+Vidaus identifikatorius: 0
+5.1.1 Tikslas
+Sutarties objektas: Prekės
+Pagrindinis klasifikacijos kodas (cpv): 44211000 Surenkamieji statiniai
+5.1.2 Sutarties vykdymo vieta
+Šalies administracinis vienetas (NUTS): Klaipėdos apskritis (LT023)
+Šalis: Lietuva
+Papildoma informacija: 
+5.1.3 Numatomas galiojimas
+Kitas galiojimas: Nežinomas
+5.1.6 Bendra informacija
+Rezervuota dalyvavimo teisė: Dalyvavimas nerezervuotas.
+Iš ES fondų nefinansuojamas pirkimo projektas
+Pirkimui taikoma Sutartis dėl viešųjų pirkimų (SVP): taip
+5.1.7 Strateginis viešasis pirkimas
+Strateginio viešojo pirkimo tikslas: Strateginių viešųjų pirkimų nėra
+5.1.9 Atrankos kriterijai
+Pasirinkimo kriterijų šaltiniai: Pirkimo dokumentas
+5.1.11 Pirkimo dokumentai
+Kalbos, kuriomis oficialiai skelbiami pirkimo dokumentai: lietuvių kalba
+Kalbos, kuriomis neoficialiai skelbiami pirkimo dokumentai (ar jų dalys): lietuvių kalba
+Pirkimo dokumentų adresas: https://viesiejipirkimai.lt/epps/cft/listContractDocuments.do?resourceId=10041864
+5.1.12 Pirkimo sąlygos
+Pateikimo sąlygos:
+Pateikimas elektroninėmis priemonėmis: Privalomos
+Pateikimo adresas: https://viesiejipirkimai.lt/epps/cft/viewTenders.do?resourceId=10041864
+Kalbos, kuriomis galima pateikti pasiūlymus arba dalyvavimo prašymus: lietuvių kalba
+Elektroninis katalogas: Draudžiamos
+Dalyviai gali pateikti daugiau kaip vieną pasiūlymą: Draudžiamos
+Pasiūlymų priėmimo terminas: 26/10/2026 10:00 +03:00
+Laikotarpis, per kurį pasiūlymas turi išlikti galiojantis: 90 Diena
+Informacija apie viešą vokų atplėšimą:
+Atidarymo data: 26/10/2026 10:30 +03:00
+Vieta: https://viesiejipirkimai.lt/epps/cft/prepareViewCfTWS.do?resourceId=10041864
+Sutarties sąlygos:
+Sutartis turi būti vykdoma pagal globojamų darbo grupių užimtumo programas: Ne
+Elektroninės sąskaitos faktūros: Privalomos
+Bus naudojami elektroniniai užsakymai: ne
+Bus naudojami elektroniniai mokėjimai: ne
+5.1.15 Metodai
+Preliminarioji sutartis:
+https://ted.europa.eu/TED Page 2/4

@@ -1,0 +1,5 @@
+# 1.1 sistemos projektavimo užklausa ChatGPT
+
+Sukurk informacinės sistemos „Viešųjų pirkimų aktualumo asistentas“ projektą. Naudotojas pateikia vieno viešojo pirkimo skelbimą, PDF / DOCX priedus, tiekėjo prekių bei paslaugų katalogą ir pasirinktinai ankstesnių pirkimų / tiekimų istoriją. Sistema turi ištraukti visas pirkimo dalis, perkamus objektus, jų techninius ir tiekimo reikalavimus, palyginti juos su tiekėjo profiliu ir pateikti preliminarų aktualumo įvertinimą su šaltinio įrodymais. Istorija yra papildomas signalas, bet neįrodo dabartinio prekių prieinamumo.
+
+Pirmiausia pateik PlantUML veiklos ir komponentų diagramą. Tada tą patį procesą išreikšk Mermaid diagrama. Diagramose atskirk failų nuskaitymą, Gemini API ištraukimą, šaltinio tikrinimą, kliento katalogo palyginimą ir žmogaus peržiūrą. Įtrauk atvejį, kai trūksta duomenų, ir taisyklę, kad vienas atitinkantis produktas nebūtinai padengia visą pirkimo dalį. Pabaigoje trumpai aprašyk įvestį, išvestį ir sistemos ribas. Nesugalvok dokumentuose nenurodytų reikalavimų.

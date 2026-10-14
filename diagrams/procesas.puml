@@ -1,0 +1,21 @@
+@startuml
+title Viešųjų pirkimų aktualumo asistento procesas
+start
+:Priimti vieno pirkimo PDF / DOCX,\nkliento katalogą ir istoriją;
+:Nuskaityti tekstą bei lenteles\nsu šaltinio žymomis;
+:Gemini API ištraukia dalis,\nobjektus ir reikalavimus;
+:Patikrinti šaltinio žymas\nir trūkstamus laukus;
+if (Ar pakanka duomenų?) then (taip)
+  :Palyginti kiekvieną pirkimo dalį\nsu visu kliento katalogu;
+  if (Ar yra pilna tinkama dalis?) then (taip)
+    :Preliminariai aktualu;
+  else (ne)
+    :Preliminariai neaktualu;
+  endif
+else (ne)
+  :Reikia žmogaus peržiūros;
+endif
+:Parodyti lentelę, pagrindimą\nir šaltinio ištraukas;
+:Žmogus patikrina išvadą;
+stop
+@enduml
