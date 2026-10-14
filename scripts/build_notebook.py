@@ -41,7 +41,7 @@ md("""## 1. Aplinka ir API raktas
 Google AI Studio sukurkite Gemini API raktą. Colab kairėje **Secrets** skiltyje pridėkite `GEMINI_API_KEY` ir leiskite šiai užrašinei jį skaityti. Raktas neturi būti įrašytas į užrašinės tekstą ar GitHub. Žemiau naudojama oficiali `google-genai` biblioteka ir struktūruota JSON išvestis. API kvietimai gali naudoti jūsų kvotą.
 
 Nuorodos: [Gemini API pradžia](https://ai.google.dev/gemini-api/docs/get-started), [raktų sauga](https://ai.google.dev/gemini-api/docs/api-key), [modelio informacija](https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flash-lite).""")
-code("%pip install -q -U google-genai pydantic pypdf python-docx pandas")
+code('%pip install -q google-genai pydantic pypdf python-docx "google-auth==2.49.0" "pandas==2.2.3"')
 code("""import io, json, re
 from pathlib import Path
 from typing import Literal, Optional

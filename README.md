@@ -16,7 +16,7 @@ VILNIUS TECH kurso „Gilusis mokymas naudojant TensorFlow“ 1 darbo 1.1–1.2.
 
 1. Atidarykite `notebooks/pirkimu_aktualumo_prototipas.ipynb` per Google Colab.
 2. Google AI Studio sukurkite Gemini API raktą. Colab kairėje atverkite **Secrets**, pridėkite `GEMINI_API_KEY` ir suteikite užrašinei prieigą. **Rakto neįrašykite į kodą ar GitHub.**
-3. Vykdykite langelius iš eilės. Demonstraciniai scenarijai įterpti į užrašinę, todėl galima paleisti be papildomų failų. Vienas pirkimas yra sintetinis; du kiti paremti pateiktais realiais dokumentais. Tiekėjų profiliai ir pirkimų istorija yra **sintetiniai**.
+3. Vykdykite langelius iš eilės iki demonstracinių scenarijų rezultatų lentelės. Bibliotekų diegimo langelį paleiskite pirmą, o po diegimo, jei Colab to prašo, iš naujo paleiskite aplinką. Demonstraciniai scenarijai įterpti į užrašinę, todėl galima paleisti be papildomų failų. Vienas pirkimas yra sintetinis; du kiti paremti pateiktais realiais dokumentais. Tiekėjų profiliai ir pirkimų istorija yra **sintetiniai**.
 4. Norėdami tikrinti visą dokumentą, paskutinėje dalyje įkelkite PDF arba DOCX. Šilutės pirkimo skelbimas ir LSMU pirkimo sąlygos yra atskiri pirkimai; jų nejunkite į vieną užklausą. Jei norite vertinti visus konkretaus pirkimo priedus, įkelkite juos kartu.
 5. Pakeiskite demonstracinį profilį tikru kliento katalogu, veiklos ribomis ir, jei turite, ankstesnių pirkimų istorija. Iki tol vertinimas **nėra pritaikytas realiam klientui**. Istorija yra papildomas signalas, bet neįrodo, kad prekė tebėra kataloge.
 
