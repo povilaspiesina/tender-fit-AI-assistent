@@ -1,5 +1,7 @@
 # Viešųjų pirkimų aktualumo asistentas
 
+[Atidaryti prototipą Google Colab](https://colab.research.google.com/github/povilaspiesina/tender-fit-AI-assistent/blob/main/notebooks/pirkimu_aktualumo_prototipas.ipynb)
+
 VILNIUS TECH kurso „Gilusis mokymas naudojant TensorFlow“ 1 darbo 1.1–1.2.2 dalių prototipas. Sistema iš pirkimo skelbimo ir jo priedų ištraukia perkamus objektus, palygina juos su tiekėjo (kliento) profiliu ir pateikia **preliminarų** aktualumo vertinimą su šaltinio nuorodomis. Sprendimas nereiškia, kad tiekėjas gali teikti pasiūlymą ar atitinka visas pirkimo sąlygas.
 
 ## Kas pateikta
