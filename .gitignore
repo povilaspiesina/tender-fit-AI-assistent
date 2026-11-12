@@ -4,4 +4,9 @@ __pycache__/
 .env
 *.key
 *.pem
+*.keras
+*.h5
+*.xlsx
+*.xls
+private/
 tmp/
