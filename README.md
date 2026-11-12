@@ -11,6 +11,11 @@ VILNIUS TECH kurso „Gilusis mokymas naudojant TensorFlow“ 1 darbo 1.1–1.2.
 | 1.1 | [Sistemos aprašas](docs/projektas.md), [ChatGPT projektavimo užklausa](prompts/projektavimo_promptas.md), [PlantUML](diagrams/procesas.puml) ir [Mermaid](diagrams/procesas.mmd) diagramos. |
 | 1.2.1 | [Trys aiškios X, y poros](data/xy_examples.md), [struktūruoti scenarijai](data/cases.json), jų šaltinio ištraukos ir [testavimo užklausos](prompts/testavimo_promptai.md). |
 | 1.2.2 | [Google Colab užrašinė](notebooks/pirkimu_aktualumo_prototipas.ipynb): failų priėmimas, teksto ištraukimas, struktūruoti Gemini API atsakymai, šaltinio patikra, vertinimas ir rezultatų lentelės. |
+| 1.3 | Ar pirkimo dalį verta perduoti tiekėjo peržiūrai: [Keras neuroninis tinklas](notebooks/1_3_pirkimo_daliu_neuroninis_tinklas.ipynb) ir [TF Decision Forests](notebooks/1_3_pirkimo_daliu_sprendimu_miskas.ipynb) su tais pačiais 380 TED pirkimų dalių duomenimis ir tuo pačiu padalijimu pagal pirkimą. |
+| 1.4 | [CNN laboratorinių reikmenų nuotraukoms](notebooks/1_4_laboratoriniu_reikmenu_cnn.ipynb) (antgaliai, mikromėgintuvėliai, mikroplokštelės). |
+| 1.5 | [Iš anksto išmokyti vaizdų modeliai](notebooks/1_5_reikmenu_isankstiniai_modeliai.ipynb) ir [perkeltinis mokymas](notebooks/1_5_reikmenu_perkeltinis_mokymas.ipynb) su tais pačiais 1.4 vaizdais. |
+
+1.3–1.5 užrašiniai įvykdyti lokaliai. Jų įvestys (pažymėtos pirkimų dalys, privataus katalogo žodynas, nuotraukos) laikomos `private/` ir į saugyklą nekeliamos, todėl iš GitHub jų iš naujo paleisti negalima. **1.3 žymas uždėjo AI agentas, ne žmogus.** 1.4–1.5 nuotraukos yra viešos (Wikimedia Commons, Openverse), ne asmeniškai darytos; autoriai ir licencijos: [data/1_4_vaizdu_saltiniai.csv](data/1_4_vaizdu_saltiniai.csv). Užrašinius generuoja `scripts/build_1_3_tender_lot_notebooks.py` ir `scripts/build_1_4_1_5_labware_notebooks.py`.
 
 ## Paleidimas Google Colab
 
